@@ -381,6 +381,7 @@ a {
     justify-content: center;
     color: var(--color-white);
     padding: 1rem;
+    margin-bottom: 15px;
 }
 
 .freelancer {
